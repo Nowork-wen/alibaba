@@ -1,0 +1,32 @@
+.Jobvacancy_fist_box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  .img2{
+    display: block;
+    width: 310px;
+    height: 140px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 140px;
+    box-shadow: 0 0 15px 0 rgba(31,56,88,0.08);
+    .logo2{
+      width: 179px;
+      vertical-align: middle;
+    }
+  }
+  
+  .img3{
+    display: block;
+    width: 310px;
+    height: 140px;
+    text-align: center;
+    line-height: 140px;
+    box-shadow: 0 0 15px 0 rgba(31,56,88,0.08);
+    .logo3{
+      width: 260px;
+      vertical-align: middle;
+    }
+  }
+}

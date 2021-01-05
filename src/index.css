@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+address, cite, dfn, em, i { font-style:normal; }
+ul, ol { list-style:none; }
+a { text-decoration:none; color: #333; }
+a:hover { text-decoration:underline; }
+legend { color:#000; }
